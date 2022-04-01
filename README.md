@@ -37,13 +37,13 @@ The original data can be obtanied from [here](https://www.kaggle.com/c/santander
 ## Usage
 ### Training
 
-Make sure the [requirements](#requirements) are satisfied in your environment, and relevant [datasets](#downloads) are downloaded. `cd` into `python, and run
+Make sure the [requirements](#requirements) are satisfied in your environment, and relevant [datasets](#downloads) are downloaded. `cd` into `python`, and run
 
 ```bash
 python -u train_cbmd.py 
 ```
 
-to train the CBMD model for the LC dataset.
+to train the CBMD model with the LC dataset.
 
 See the file `running_specs.sh` for details about input parameters for the SAN dataset.
 
