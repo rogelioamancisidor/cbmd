@@ -7,8 +7,8 @@ If you use this code in your research, please cite:
                 title={Generating Customer's Credit Behavior with Deep Generative Models},
                 author={Mancisidor, Rogelio A and Kampffmeyer, Michael and Aas, Kjersti and Jenssen, Robert},
                 journal={Knowledge-Based Systems},
-		pages={108568},
-		doi = {10.1016/j.knosys.2022.108568},
+                pages={108568},
+                doi = {10.1016/j.knosys.2022.108568},
                 year={2022},
                 publisher={Elsevier}
         }
