@@ -1,5 +1,5 @@
 # Generating Customer's Credit Behavior with Deep Generative Models
-Minimal `tensorflow` re-implementation for the framework in **Generating Customer's Credit Behavior with Deep Generative Models**. If you are interested in the original code (implemented in Theano), contact me.
+Minimal `tensorflow` re-implementation for the framework in **Generating Customer's Credit Behavior with Deep Generative Models**[paper](https://www.sciencedirect.com/science/article/pii/S0950705122002532). If you are interested in the original code (implemented in Theano), contact me.
 
 If you use this code in your research, please cite:
 
