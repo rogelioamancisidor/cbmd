@@ -29,7 +29,7 @@ Otherwise you will get error messages when loading the data, saving figures etc.
 
 ## Downloads
 ### Lending Club Dataset
-The application data can be obtanied [here](https://biedu-my.sharepoint.com/:u:/g/personal/rogelio_a_mancisidor_bi_no/EcgPz45I3RVEu0NP6ZKFjwcBevv_UyPupOrOk2nGi7VGzQ?e=pvYQqg) and the behavior data [here](https://biedu-my.sharepoint.com/:u:/g/personal/rogelio_a_mancisidor_bi_no/ET0VGWiJlZ5Jgpj94f7JfkEBfSpVfJcB2p7aBZIsZgaunA?e=k7FdYo).
+The application data can be obtanied [here](https://drive.google.com/file/d/1ayD94kWZCT4y-gRrxeMMWgAKBZSyuhNw/view?usp=sharing) and the behavior data [here](https://drive.google.com/file/d/18V7vaOst9kE3YPru5YQiWMLhx5LV6lBQ/view?usp=sharing).
 
 ### Santander Dataset
 The original data can be obtanied from [here](https://www.kaggle.com/c/santander-customer-transaction-prediction/data). In this other [version](https://biedu-my.sharepoint.com/:u:/g/personal/rogelio_a_mancisidor_bi_no/ETYsdKH2OFhPukow_jaMKW8Bineu6OS67s_ee7n__spRag?e=aJH83x), the features are sorted according with their predictive power in ascending order, i.e. first column is the least predictive feature, while last column is the most predictive feature as explained in the paper.  
